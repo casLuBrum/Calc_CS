@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Lucas\Desktop\Projetos C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
